@@ -1,16 +1,16 @@
 # Hi, I'm Philiphine Cheptanui! 👋
 
-A passionate Cybersecurity and Digital Forensics enthusiast currently pursuing my Master's at OUK, with a strong foundation in Information Sciences from Moi University. I'm dedicated to leveraging technology to build secure systems and investigate digital threats.
+A dedicated Network, Cybersecurity and Digital Forensics Specialist focused on designing secure, resilient infrastructures through advanced threat detection, zero-trust frameworks, and cloud security best practices. Passionate about safeguarding networks with firewalls, SIEM tools, and penetration testing while automating defenses for efficiency. Committed to staying ahead of evolving cyber threats and driving secure digital transformation in enterprise environments by leveraging technology to build secure systems and investigate digital threats.
 
 ---
 
 ## 👩‍💻 Skills
 
-**Languages:** Python, Java, C++, Bash
-**Cybersecurity:** Network Security, Digital Forensics, Incident Response, SIEM, Vulnerability Assessment, Threat Intelligence
-**Cloud:** AWS (basics), Azure (on-going)
-**Tools:** Wireshark, Metasploit, Nmap, Kali Linux, Autopsy, EnCase
-**Networking:** CCNA 1, 2 & 3 (on-going)
+* **Languages:** Python, Java, C++, Bash
+* **Cybersecurity:** Network Security, Digital Forensics, Incident Response, SIEM, Vulnerability Assessment, Threat Intelligence
+* **Cloud:** AWS (basics), Azure (on-going)
+* **Tools:** Wireshark, TCPDump, Nmap, Kali Linux, Autopsy, EnCase, cURL
+* **Networking:** CCNA 1, 2 & 3 (on-going)
 
 ---
 
@@ -32,8 +32,8 @@ A passionate Cybersecurity and Digital Forensics enthusiast currently pursuing m
 
 ## 🌐 Connect with me:
 
-* [LinkedIn](https://linkedin.com/in/philiphinecheptanui) (Replace with your actual LinkedIn URL)
-* [Email](mailto:your.email@example.com) (Replace with your actual email address)
-* [Personal Website/Portfolio](https://yourpersonalwebsite.com) (If you have one)
+* [LinkedIn](https://linkedin.com/in/philiphinecheptanui)
+* [Email](koimaphilipine@gmail.com) 
+* https://compnetworksecurity.blogspot.com/
 
 ---
