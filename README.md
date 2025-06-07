@@ -29,6 +29,9 @@ A dedicated Network, Cybersecurity and Digital Forensics Specialist focused on d
 * **Wireshark Activity : Use Wireshark to View Network Traffic** - Wireshark is a valuable tool in networking because it is used to troubleshoot networks, analyze network traffic, develop Software and protocols, and educate network enthusiasts. As traffic is transmitted over the network, Wireshark captures each Protocol Data Unit (PDU) and can decode and analyze its content. [Link to Repository](https://github.com/philiphineck/Use-Wireshark-to-View-Network-Traffic)
 
 ---
+**Philiphine Cheptanui | Information Scientist, BSc | Computer Network | Cybersecurity | WordPress | Data Entry | Research | Writer.**
+
+---
 
 ## 🌐 Connect with me:
 
