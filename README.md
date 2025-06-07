@@ -25,7 +25,7 @@ A dedicated Network, Cybersecurity and Digital Forensics Specialist focused on d
 
 ## ✨ Selected Projects
 
-* **[Project Name 1]** - Briefly describe the project, your role, and key technologies used. [Link to Repository](https://github.com/yourusername/project1)
+* **[Packet Tracer: Investigate the TCP/IP and OSI Models in Action]** - This project is a hands-on simulation activity using Cisco Packet Tracer, designed to explore and visualize the TCP/IP protocol suite and its relationship to the OSI model. My role involved configuring and observing network traffic, specifically HTTP and DNS, within the simulation environment to understand concepts like data encapsulation, PDU (Protocol Data Unit) inspection, and the function of different layers. The key technology used is Cisco Packet Tracer. [Link to Repository](https://github.com/philiphineck/Packet-Tracer-_Investigate-the-TCP_IP-and-OSI-Models-in-Action)
 * **[Project Name 2]** - Another brief description. [Link to Repository](https://github.com/yourusername/project2)
 
 ---
